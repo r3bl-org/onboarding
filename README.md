@@ -47,6 +47,7 @@ Here are some great YT video playlists to learn Rust & Text User Interface (TUI)
 
 ## Learning Rust
 
+- [YT video playlist on Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
 - https://developerlife.com/2022/03/02/rust-grep-cli-app/
   - Build a command line interface application “grep” and use this tutorial to get started.
   - We can work on this application over the time of your internship and make it “real” and add lots
