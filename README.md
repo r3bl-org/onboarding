@@ -73,10 +73,7 @@ Small crate to learn about text user interfaces, more Rust, and crossterm:
 Large crate to work w/ TUI:
 - https://github.com/r3bl-org/r3bl_rs_utils/tree/main/tui#run-the-demo-locally
   - Follow the instructions here to get the repo cloned on your computer.
-  - Install fish using `brew install fish` so that you can run the .fish scripts in the repo. If you
-    are on Windows, you might first need to install WSL2 and setup a Ubuntu VM in order to get this
-    code running in that environment. Although you could just look inside the .fish scripts and type
-    those commands in Windows or an environment that doesn't support fish.
+  - Install nu shell using `cargo install nu` so that you can run the `.nu` scripts in the repo.
 - Go through the demos and make sure you run them.
 - Go through the README and let me know if things are missing or if they need better explanations.
   Here are some issues to take a look at: - https://github.com/r3bl-org/r3bl_rs_utils/issues/86 -
