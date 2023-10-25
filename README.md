@@ -62,8 +62,15 @@ Here are some great YT video playlists to learn Rust & Text User Interface (TUI)
 - https://doc.rust-lang.org/stable/book/ch00-00-introduction.html
   - This is the Rust book that can be a handy reference on your journey of learning Rust.
 
-## Getting started w/ the r3bl_tui crate
+## Getting started w/ the r3bl crates
 
+Small crate to learn about Rust, testing, and ANSI:
+- https://github.com/r3bl-org/r3bl_ansi_color/
+
+Small crate to learn about text user interfaces, more Rust, and crossterm:
+- https://github.com/r3bl-org/r3bl_tuify/
+
+Large crate to work w/ TUI:
 - https://github.com/r3bl-org/r3bl_rs_utils/tree/main/tui#run-the-demo-locally
   - Follow the instructions here to get the repo cloned on your computer.
   - Install fish using `brew install fish` so that you can run the .fish scripts in the repo. If you
