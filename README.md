@@ -10,7 +10,7 @@ connection to the web & browsers & JS is very much there.
 
 ## Installing Rust toolchain and IDE on your machine
 
-- [Install Rust](<[https://www.rust-lang.org/tools/install](https://www.rust-lang.org/learn/get-started)>)
+- [Install Rust](https://www.rust-lang.org/tools/install)
 - [Install VSCode](https://code.visualstudio.com)
   - [Vscode + Rust analyzer](https://code.visualstudio.com/docs/languages/rust)
   - 💡 When you simply open the [`r3bl_rs_utils` repo](https://github.com/r3bl-org/r3bl_rs_utils) in VSCode it will ask you to install some extensions that
