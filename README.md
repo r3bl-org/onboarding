@@ -23,7 +23,7 @@ If you'd like to take a look at Rust, here are some great starting points.
 - [Install Rust](<[https://www.rust-lang.org/tools/install](https://www.rust-lang.org/learn/get-started)>)
 - [Install VSCode](https://code.visualstudio.com)
   - [Vscode + Rust analyzer](https://code.visualstudio.com/docs/languages/rust)
-  - When you simply open the [`r3bl_rs_utils` repo](https://github.com/r3bl-org/r3bl_rs_utils) in VSCode it will ask you to install some extensions that
+  - 💡 When you simply open the [`r3bl_rs_utils` repo](https://github.com/r3bl-org/r3bl_rs_utils) in VSCode it will ask you to install some extensions that
     are recommended. Please do this as it will make your development experience much nicer!
 
 ## TUI concepts and Unix terminal concepts
