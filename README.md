@@ -24,7 +24,8 @@ If you'd like to take a look at Rust, here are some great starting points.
 - Rustlings: You can go the JetBrains IDE route or terminal based
   - [JetBrains IDE route](https://plugins.jetbrains.com/plugin/16631-learn-rust/)
   - [Terminal & your favorite editor](https://github.com/rust-lang/rustlings)
-- [Rust language basics](https://www.youtube.com/playlist?list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW)
+- [Rust language basics YT playlist w/ JT 4 videos](https://www.youtube.com/playlist?list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW)
+- [Rust types and traits and API design video](https://www.youtube.com/watch?v=bnnacleqg6k)
 
 ## TUI concepts and Unix terminal concepts
 
