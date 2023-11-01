@@ -29,6 +29,8 @@ If you'd like to take a look at Rust, here are some great starting points.
   - [Rust by example and traits](https://doc.rust-lang.org/stable/rust-by-example/trait/impl_trait.html)
   - [Video: Rust types and traits and API design video](https://www.youtube.com/watch?v=bnnacleqg6k)
   - [Video: Rust traits and polymorphism video](https://www.youtube.com/watch?v=CHRNj5oubwc)
+- Dependency injection and unit testing
+  - [DI & Unit testing](https://worldwithouteng.com/articles/make-your-rust-code-unit-testable-with-dependency-inversion/) 
 
 ## TUI concepts and Unix terminal concepts
 
