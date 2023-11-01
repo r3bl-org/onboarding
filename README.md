@@ -31,6 +31,8 @@ If you'd like to take a look at Rust, here are some great starting points.
   - [Video: Rust traits and polymorphism video](https://www.youtube.com/watch?v=CHRNj5oubwc)
 - Dependency injection and unit testing
   - [DI & Unit testing](https://worldwithouteng.com/articles/make-your-rust-code-unit-testable-with-dependency-inversion/) 
+- Releasing Rust projects
+  - [cargo-dist](https://github.com/axodotdev/cargo-dist/)
 
 ## TUI concepts and Unix terminal concepts
 
