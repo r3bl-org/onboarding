@@ -88,8 +88,9 @@ Large crate to work w/ TUI:
   - Install nu shell using `cargo install nu` so that you can run the `.nu` scripts in the repo.
 - Go through the demos and make sure you run them.
 - Go through the README and let me know if things are missing or if they need better explanations.
-  Here are some issues to take a look at: - https://github.com/r3bl-org/r3bl_rs_utils/issues/86 -
-  https://github.com/r3bl-org/r3bl_rs_utils/issues/102 -
-  https://github.com/r3bl-org/r3bl-cmdr/issues/23 -
-  https://github.com/r3bl-org/r3bl_rs_utils/issues/87 -
-  https://github.com/r3bl-org/r3bl_rs_utils/issues/85
+  Here are some issues to take a look at:
+  - https://github.com/r3bl-org/r3bl_rs_utils/issues/86
+  - https://github.com/r3bl-org/r3bl_rs_utils/issues/102
+  - https://github.com/r3bl-org/r3bl-cmdr/issues/23
+  - https://github.com/r3bl-org/r3bl_rs_utils/issues/87
+  - https://github.com/r3bl-org/r3bl_rs_utils/issues/85
