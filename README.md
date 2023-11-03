@@ -55,7 +55,7 @@ Here are some great YT video playlists to learn Rust & Text User Interface (TUI)
   - [ANSI 256 colors](https://www.ditig.com/256-colors-cheat-sheet)
   - [ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
 
-## Learning Rust
+## Learning Rust (deep dives)
 
 - [YT video playlist on Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
 - https://developerlife.com/2022/03/02/rust-grep-cli-app/
