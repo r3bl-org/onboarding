@@ -71,6 +71,8 @@ Here are some great YT video playlists to learn Rust & Text User Interface (TUI)
     it to get a handle on the TUI library itself.
 - https://doc.rust-lang.org/stable/book/ch00-00-introduction.html
   - This is the Rust book that can be a handy reference on your journey of learning Rust.
+- https://github.com/nazmulidris/rust-scratch
+  - This repo is a collection of cargo crate projects which are just pedagogical exercises in exploring specific features, crates, or patterns in Rust (eg: syntax highlighting, tokio, or typesafe-builder-pattern)
 
 ## Getting started w/ the r3bl crates
 
