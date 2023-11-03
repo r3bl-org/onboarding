@@ -24,7 +24,9 @@ If you'd like to take a look at Rust, here are some great starting points.
 - Rustlings: You can go the JetBrains IDE route or terminal based
   - [JetBrains IDE route](https://plugins.jetbrains.com/plugin/16631-learn-rust/)
   - [Terminal & your favorite editor](https://github.com/rust-lang/rustlings)
-- [Videos: Rust language basics YT playlist w/ JT 4 videos](https://www.youtube.com/playlist?list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW)
+- JT video playlists
+  - [Videos: Rust language basics YT playlist w/ JT 4 videos](https://www.youtube.com/playlist?list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW)
+  - [Videos: Creating a line editor in Rust w/ JT playlist](https://www.youtube.com/playlist?list=PLP2yfE2-FXdQw0I6O4YdIX_mzBeF5TDdv) 
 - Traits
   - [Rust by example and traits](https://doc.rust-lang.org/stable/rust-by-example/trait/impl_trait.html)
   - [Video: Rust types and traits and API design video](https://www.youtube.com/watch?v=bnnacleqg6k)
