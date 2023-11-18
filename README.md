@@ -24,7 +24,7 @@ If you'd like to take a look at Rust, here are some great starting points.
 - Rustlings: You can go the JetBrains IDE route or terminal based
   - [JetBrains IDE route](https://plugins.jetbrains.com/plugin/16631-learn-rust/)
   - [Terminal & your favorite editor](https://github.com/rust-lang/rustlings)
-- JT video playlists
+- [JT](https://www.jntrnr.com/) video playlists
   - [Videos: Rust language basics YT playlist w/ JT 4 videos](https://www.youtube.com/playlist?list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW)
   - [Videos: Creating a line editor in Rust w/ JT playlist](https://www.youtube.com/playlist?list=PLP2yfE2-FXdQw0I6O4YdIX_mzBeF5TDdv) (watching the first video or two is good to get a handle on crossterm, and the rest can be skipped)
 - Traits
@@ -35,6 +35,10 @@ If you'd like to take a look at Rust, here are some great starting points.
   - [DI & Unit testing](https://worldwithouteng.com/articles/make-your-rust-code-unit-testable-with-dependency-inversion/) 
 - Releasing Rust projects
   - [cargo-dist](https://github.com/axodotdev/cargo-dist/)
+
+## CLI UX design
+- [UX Design guidelines for CLI, not TUI](https://clig.dev/)
+- [Video of how GitHub designed `gh`](https://www.youtube.com/watch?v=zsjeZZVAk1E)
 
 ## TUI concepts and Unix terminal concepts
 
