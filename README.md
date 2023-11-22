@@ -41,8 +41,8 @@ If you'd like to take a look at Rust, here are some great starting points.
 - [Video of how GitHub designed `gh`](https://www.youtube.com/watch?v=zsjeZZVAk1E)
 
 ## R3BL TUI architecture videos
-- [R3BL TUI architecture deep dive - with redux](https://youtu.be/Ne5-MXxt97A?si=xZjZDvj2lSLCZb8N)
-- [R3BL TUI architecture deep dive - dropping redux](https://youtu.be/o2CVEikbEAQ?si=AXbSnBnyW4919t28)
+- [Video: R3BL TUI architecture deep dive - with redux](https://youtu.be/Ne5-MXxt97A?si=xZjZDvj2lSLCZb8N)
+- [Video: R3BL TUI architecture deep dive - dropping redux](https://youtu.be/o2CVEikbEAQ?si=AXbSnBnyW4919t28)
 
 ## TUI concepts and Unix terminal concepts
 
