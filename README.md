@@ -45,6 +45,7 @@ If you'd like to take a look at Rust, here are some great starting points.
 ## R3BL TUI architecture videos
 - [Video: R3BL TUI architecture deep dive - with redux](https://youtu.be/Ne5-MXxt97A?si=xZjZDvj2lSLCZb8N)
 - [Video: R3BL TUI architecture deep dive - dropping redux](https://youtu.be/o2CVEikbEAQ?si=AXbSnBnyW4919t28)
+- [Video: R3BL TUI flamegraph profiling](https://www.youtube.com/watch?v=Sy26IMkOEiM)
 
 ## TUI concepts and Unix terminal concepts
 
