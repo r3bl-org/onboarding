@@ -87,10 +87,10 @@ Here are some great YT video playlists to learn Rust & Text User Interface (TUI)
 ## Getting started w/ the r3bl crates
 
 Small crate to learn about Rust, testing, and ANSI:
-- https://github.com/r3bl-org/r3bl_ansi_color/
+- https://github.com/r3bl-org/r3bl-open-core/tree/main/ansi_color
 
 Small crate to learn about text user interfaces, more Rust, and crossterm:
-- https://github.com/r3bl-org/r3bl_tuify/
+- https://github.com/r3bl-org/r3bl-open-core/tree/main/tuify
 
 Large crate to work w/ TUI:
 - https://github.com/r3bl-org/r3bl_rs_utils/tree/main/tui#run-the-demo-locally
