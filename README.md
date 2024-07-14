@@ -34,7 +34,7 @@ If you'd like to take a look at Rust, here are some great starting points.
   - [Video: Rust types and traits and API design video](https://www.youtube.com/watch?v=bnnacleqg6k)
   - [Video: Rust traits and polymorphism video](https://www.youtube.com/watch?v=CHRNj5oubwc)
 - Dependency injection and unit testing
-  - [DI & Unit testing](https://worldwithouteng.com/articles/make-your-rust-code-unit-testable-with-dependency-inversion/) 
+  - [DI & Unit testing](https://worldwithouteng.com/articles/make-your-rust-code-unit-testable-with-dependency-inversion/)
 - Releasing Rust projects
   - [cargo-dist](https://github.com/axodotdev/cargo-dist/)
 
@@ -47,12 +47,30 @@ If you'd like to take a look at Rust, here are some great starting points.
 - [Video: R3BL TUI architecture deep dive - dropping redux](https://youtu.be/o2CVEikbEAQ?si=AXbSnBnyW4919t28)
 - [Video: R3BL TUI flamegraph profiling](https://www.youtube.com/watch?v=Sy26IMkOEiM)
 
-## TUI concepts and Unix terminal concepts
+## Linux TTY, process, and TUI concepts
+
+### History of TTY (what is TTY, PTY, etc in Linux)
+
+Here's a history of TTY and how it all got started back in the day, to what it is today in Linux.
+- [The TTY demystified](https://www.linusakesson.net/programming/tty/)
+
+### Linux process fork, exec, wait
+
+Here are some great videos to understand process, exec, fork, and wait
+- [Creating new processes with fork](https://www.youtube.com/watch?v=ss1-REMJ9GA)
+- [Sending and handling signals for IPC](https://www.youtube.com/watch?v=83M5-NPDeWs)
+- [Understanding zombie processes](https://www.youtube.com/watch?v=xJ8KenZw2ag)
+- [How to prevent child processes from becoming zombies](https://www.youtube.com/watch?v=_5SCtRNnf9U)
+
+### POSIX overview
 
 ![](docs/terminal-overview-posix.svg)
 
+
 Here is the source file for this drawing:
 [excalidraw diagram](docs/terminal-overview-posix.excalidraw).
+
+### TUI concepts
 
 Here are some great YT video playlists to learn Rust & Text User Interface (TUI) concepts.
 
